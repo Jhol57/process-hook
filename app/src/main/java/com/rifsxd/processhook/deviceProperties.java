@@ -198,6 +198,7 @@ public final class deviceProperties {
         String[] blackSharkApps = {
             "com.proximabeta.mf.uamo",
             "com.tencent.tmgp.kr.codm",
+            "com.tencent.tmgp.dfm",
             "com.vng.codmvn",
             "com.vng.pubgmobile",
             "com.pubg.krmobile",
